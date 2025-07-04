@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @aydanaprogrammer
 - 👀 I’m interested in math, coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking forward to work on anything crazy
 - 📫 How to reach me: narkhozovaaydana@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i like true-crime stories
 
 <!---
